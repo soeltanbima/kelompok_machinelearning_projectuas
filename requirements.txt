@@ -26,4 +26,4 @@ Werkzeug==0.15.5
 Pillow
 joblib==0.16.0
 seaborn==0.11.1
-matlabplotlib==3.4.1
+
